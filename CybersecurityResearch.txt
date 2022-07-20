@@ -1,0 +1,10 @@
+
+
+Research major cybersecurity breaches over the past 20 years and pick one to write a short essay on.
+
+Give an overview of what the breach was and the motivations behind it.
+
+Explain where the “tech flaws” were, and how hackers were able to breach their system.
+
+What has the company done to protect against that vulnerability since?
+
